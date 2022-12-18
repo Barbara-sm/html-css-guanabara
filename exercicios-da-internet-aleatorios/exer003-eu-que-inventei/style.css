@@ -1,0 +1,30 @@
+@charset "UTF-8" ;
+
+body {
+    background-color: #9958836e;
+}
+
+#principal{
+    color: #663B58;
+    text-align: center;
+
+}
+
+h2{
+    color:#AA96A3;
+}
+
+p{
+    color: #663B58;
+    text-align: justify;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+h1{
+    color: #5f5f99d2;
+}
+
+#diferente{
+    color: #99482B;
+    background-color: #2D9930;
+}

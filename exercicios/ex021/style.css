@@ -1,0 +1,30 @@
+@charset "UTF-8" ;
+ body{
+    background-color: #f0cf63;
+ }
+
+ h1{ /* box-level */
+    background-color: gray;
+    height: 300px;
+    width: 300px;
+
+    /* border-width: 10px;
+    border-style: solid;
+    border-color: blueviolet;   
+    SEMPRE É NA ORDEM TOP RIGHT BOTTOM LEFT */
+
+   border: 10px solid blueviolet ;
+     
+   padding: 10px  ;
+
+   margin: 20px auto 40px auto ;
+  
+   outline: 20px dashed #c59a59 ;
+  
+ }
+
+ a { /* inline-level    */
+    border-width: 10px;
+    border-style: solid;
+    border-color: red;
+ }

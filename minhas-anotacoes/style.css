@@ -1,0 +1,26 @@
+@charset "UTF-8" ;
+ body {
+    background-color: #5DAB8C;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+ }
+
+#especial {
+    background-color:#F7C19E;
+    color: #AD0029;
+}
+
+#naosei {
+    background-color: #F7C19E;
+    color: #AD0029;
+}
+
+#cores {
+    background-color:#F7C19E ;
+    color: #AD0029;
+}
+
+.class {
+    background-color: #F7C19E;
+    color: #AD0029;
+}
